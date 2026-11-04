@@ -1,0 +1,7 @@
+.DS_Store
+.build-dd/
+Core/.build/
+.swiftpm/
+xcuserdata/
+*.log
+Config/Signing.local.xcconfig

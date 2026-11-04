@@ -1,0 +1,10 @@
+// The only file you need to edit to build Clamshell.
+//
+// DEVELOPMENT_TEAM: your Apple team ID. In Xcode: Settings → Apple Accounts → your account → Team.
+//                   You can also leave it empty and pick your team under Signing & Capabilities instead.
+// BUNDLE_PREFIX:    anything unique to you, like com.yourname. Apple needs app IDs to be unique.
+DEVELOPMENT_TEAM =
+BUNDLE_PREFIX = com.yourname
+
+// Optional personal overrides that stay out of git.
+#include? "Signing.local.xcconfig"

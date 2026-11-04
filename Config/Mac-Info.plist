@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>NSLocalNetworkUsageDescription</key>
+  <string>Clamshell streams this Mac to your paired iPhone over your network.</string>
+  <key>NSBonjourServices</key>
+  <array><string>_clamshell._tcp</string></array>
+  <key>NSScreenCaptureUsageDescription</key>
+  <string>Clamshell streams this screen to your paired iPhone.</string>
+  <key>LSApplicationCategoryType</key>
+  <string>public.app-category.utilities</string>
+</dict>
+</plist>
